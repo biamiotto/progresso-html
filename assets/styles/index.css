@@ -37,7 +37,7 @@ h2 {
 .flex-item {
     width: 80px;
     height: 80px;
-    background-color: rgb(225, 166, 236);
+    background-color: rgb(220, 96, 241);
     border: 2px solid rgb(176, 47, 236);
     color: rgb(105, 5, 172);
     display: flex;
@@ -52,4 +52,12 @@ h2 {
 }
 .justify-end {
     justify-content: flex-end;
+}
+
+.justify-between {
+    justify-content: space-between;
+}
+
+.justify-around {
+    justify-content: space-around;
 }
