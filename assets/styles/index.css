@@ -27,7 +27,7 @@ h2 {
 .flex-container {
     width: 90%;
     height: 200px;
-    background-color: rgb(210, 120, 238);
+    background-color: rgb(220, 144, 243);
     margin: 0 auto 20px;
     display: flex;
     justify-content: flex-start;
@@ -37,7 +37,7 @@ h2 {
 .flex-item {
     width: 80px;
     height: 80px;
-    background-color: rgb(236, 184, 247);
+    background-color: rgb(228, 170, 240);
     border: 2px solid rgb(176, 47, 236);
     color: rgb(105, 5, 172);
     display: flex;
@@ -45,4 +45,8 @@ h2 {
     align-items: center;
     border-radius: 8px;
     margin: 10px;
+}
+
+.justify-center {
+    justify-content: center;
 }
