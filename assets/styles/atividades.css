@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.retangulo {
+    width: 45%;
+    height: 200px;
+    background-color: rgb(191, 73, 226);
+    margin: 50px auto;
+}
