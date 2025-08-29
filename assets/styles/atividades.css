@@ -5,8 +5,32 @@
 }
 
 .retangulo {
-    width: 45%;
-    height: 200px;
+    width: 330px;
+    height: 150px;
     background-color: rgb(191, 73, 226);
     margin: 50px auto;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+    gap: 20px;
+}
+
+.quadrado {
+    width: 150px;
+    height: 150px;
+}
+
+.rosa {
+    background-color: rgb(235, 45, 178);
+}
+
+.azul {
+    background-color: rgb(88, 127, 233);
 }
