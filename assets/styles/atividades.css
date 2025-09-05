@@ -42,7 +42,7 @@
     justify-content: center;
     height: 520px;
     gap: 30px;
-    background-color: rgb(29, 36, 43);
+    background-color: rgb(40, 48, 56);
     width: 220px;
     border-radius: 25px;
     margin: 0 auto 30px;
@@ -56,12 +56,15 @@
 
 .verde {
     background-color: rgb(31, 223, 72);
+    box-shadow: 0 0 20px rgb(11, 241, 11);
 }
 
 .amarelo {
     background-color: rgb(233, 233, 24);
+    box-shadow: 0 0 20px rgb(240, 240, 6);
 }
 
 .vermelho {
     background-color: rgb(243, 10, 10);
+    box-shadow: 0 0 20px #ff0000;
 }
