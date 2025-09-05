@@ -5,8 +5,8 @@
 }
 
 header {
-    background-color: #161515;
-    color: rgb(184, 104, 238);
+    background-color: #e599ec;
+    color: rgb(145, 19, 230);
     padding: 15px 30px;
     display: flex;
     justify-content: space-between;
@@ -14,7 +14,7 @@ header {
 }
 
 .Logo {
-    font-size: 25px;
+    font-size: 30px;
     font-weight: bold;
 }
 
@@ -24,12 +24,12 @@ header {
 }
 
 .menu a {
-    color: rgb(186, 94, 240);
+    color: rgb(157, 7, 245);
     text-decoration: none;
-    font-size: 16px;
+    font-size: 20px;
     transition: color 0.3s;
 }
 
 .menu a:hover {
-    color: rgb(240, 22, 240);
+    color: rgb(245, 5, 185);
 }
