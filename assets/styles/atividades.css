@@ -45,8 +45,8 @@
 }
 
 .sinal {
-    width: 100px;
-    height: 100px;
+    width: 125px;
+    height: 125px;
     border-radius: 50%;
 }
 
@@ -55,7 +55,7 @@
 }
 
 .amarelo {
-    background-color: yellow;
+    background-color: rgb(233, 233, 24);
 }
 
 .vermelho {

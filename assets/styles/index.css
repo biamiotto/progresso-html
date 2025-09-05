@@ -6,6 +6,24 @@
     box-sizing: border-box;
 }
 
+.navegacao {
+    text-decoration: none;
+    color: rgb(169, 13, 184);
+    text-decoration: none;
+    font-weight: bold;
+    padding: 0.5rem 1rem;
+    margin: 20px;
+    border: 2px solid rgb(175, 20, 189);
+    border-radius: 25px;
+    display: inline-block;
+    transition: all 0.5s ease;
+}
+
+.navegacao:hover {
+    background-color: rgb(166, 58, 230);
+    color: rgb(0, 0, 0);
+}
+
 body {
     font-family: Zilla Slab, sans-serif;
     padding: 20px;
